@@ -1,0 +1,12 @@
+{
+    "name": "dengdaigeduo/wangyingxin",
+    "type": "project",
+    "authors": [
+        {
+            "name": "yimeng",
+            "email": "172566565@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
